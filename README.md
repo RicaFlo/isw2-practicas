@@ -4,7 +4,7 @@
 **Carrera:** [Ingenieria en Informatica]
 
 ## Índice de Prácticas
-*   [ ] Práctica 1 - Limpieza de código (refactoring)
+*   [X] Práctica 1 - Limpieza de código (refactoring)
 *   [ ] Práctica 2
 *   [ ] Práctica 3
 *   [ ] Práctica 4

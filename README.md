@@ -5,11 +5,13 @@
 
 ## Índice de Prácticas
 *   [X] Práctica 1 - Limpieza de código (refactoring)
-*   [ ] Práctica 2
-*   [ ] Práctica 3
-*   [ ] Práctica 4
-*   [ ] Práctica 5
-*   [ ] Práctica 6
+*   [X] Práctica 2
+*   [X] Práctica 3
+*   [X] Práctica 4
+*   [X] Práctica 5
+*   [X] Práctica 6
 *   [ ] Práctica 7
 *   [ ] Práctica 8
 *   [ ] Práctica 9
+
+Token de propiedad: LEARN-CAP-0C0DED37
